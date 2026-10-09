@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:02:17.269Z",
+  "generated_at": "2026-10-09T08:27:34.887Z",
   "items": {
     "problem:413": {
       "kind": "problem",
@@ -39,6 +39,19 @@
       "last_pushed_at": "2026-10-09T08:02:16.584Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:416": {
+      "kind": "problem",
+      "id": "416",
+      "title": "Compute Attention Memory Traffic and FLOPs",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/416",
+      "path": "problems/0416-compute-attention-memory-traffic-and-flops",
+      "first_solved_at": "2026-10-09T08:27:34.108Z",
+      "last_pushed_at": "2026-10-09T08:27:34.108Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
